@@ -1,0 +1,32 @@
+aid: craftmypdf
+name: CraftMyPDF
+description: "Generate PDF documents from templates with a drop-and-drop editor and a simple API"
+url: https://craftmypdf.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: CraftMyPDF
+    description: "Generate PDF documents from templates with a drop-and-drop editor and a simple API"
+    humanURL: https://craftmypdf.com
+    baseURL: https://craftmypdf.com
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://craftmypdf.com
+common:
+  - type: Website
+    url: https://craftmypdf.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
