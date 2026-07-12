@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://craftmypdf.com
 common:
+  - type: DomainSecurity
+    url: security/craftmypdf-domain-security.yml
   - type: Website
     url: https://craftmypdf.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://craftmypdf.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
