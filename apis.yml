@@ -33,13 +33,14 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - PDF
+  - PDF Generation
+  - Documents
 apis:
   - name: CraftMyPDF
     description: "Generate PDF documents from templates with a drop-and-drop editor and a simple API"
     humanURL: https://craftmypdf.com
-    baseURL: https://craftmypdf.com
     tags:
       - Documents And Productivity
     properties:
@@ -57,3 +58,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
