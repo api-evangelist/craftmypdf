@@ -41,7 +41,8 @@ apis:
   - name: CraftMyPDF
     description: "Generate PDF documents from templates with a drop-and-drop editor and a simple API"
     humanURL: https://craftmypdf.com
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
