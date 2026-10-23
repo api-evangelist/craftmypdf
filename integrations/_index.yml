@@ -54,3 +54,16 @@
     builder: Pipedream repo (component)
   status: not-a-workflow
   arazzo: null
+- slug: craftmypdf-airtable-own
+  label: Airtable (own)
+  partner: airtable
+  partner_name: Airtable (own)
+  category: Airtable extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://airtable.com/marketplace/blkLz6A97ssjTt0z2/craft-my-pdf
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
