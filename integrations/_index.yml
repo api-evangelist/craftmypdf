@@ -67,3 +67,16 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: craftmypdf-bubble-own
+  label: Bubble (own)
+  partner: bubble
+  partner_name: Bubble (own)
+  category: Action
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://bubble.io/plugin/craftmypdf-1639309420468x292023338381869060
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
